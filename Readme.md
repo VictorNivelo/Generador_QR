@@ -33,7 +33,7 @@ python qr_generator.py
 ## Capturas de pantalla
 
 ### Modo claro
-![Captura de pantalla de la calculadora en modo claro](https://github.com/VictorNivelo/Generador_QR/blob/main/Imagenes/Modo_Claro.png)
+![Captura de pantalla de la calculadora en modo claro](https://github.com/VictorNivelo/Generador_QR/blob/main/Imagenes/Captura%20de%20pantalla%202024-10-01%20130932.png)
 
 ### Modo oscuro
-![Captura de pantalla de la calculadora en modo oscuro](https://github.com/VictorNivelo/Generador_QR/blob/main/Imagenes/Modo_Oscuro.png)
+![Captura de pantalla de la calculadora en modo oscuro](https://github.com/VictorNivelo/Generador_QR/blob/main/Imagenes/Captura%20de%20pantalla%202024-10-01%20130939.png)
